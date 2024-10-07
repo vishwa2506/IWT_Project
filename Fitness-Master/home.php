@@ -41,16 +41,7 @@ include 'navbar.php';
         .btn:hover {
             background-color: #0056b3;
         }
-        body {
-            background-image: url('images/bg3.webp'); 
-            background-size: cover; 
-            background-position: center; 
-            background-repeat: no-repeat; 
-            background-attachment: fixed; 
-        }
-       /* body{
-            background-color:black;
-        }*/
+        
     </style>
 </head>
 <body>
