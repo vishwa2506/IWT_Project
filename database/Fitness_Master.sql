@@ -145,12 +145,12 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `gender`, `password`, `phone_number`, `type`, `created_at`, `updated_at`) VALUES
-(1, 'Kamal', 'kamal@gmail.com', 'Male', '202cb962ac59075b964b07152d234b70', '776655432', 1, '2024-09-27 15:34:19', '2024-09-27 15:34:19'),
-(2, 'Sara', 'sara@gmail.com', 'Female', '202cb962ac59075b964b07152d234b70', '987654321', 0, '2024-09-27 15:34:19', '2024-09-27 15:34:19'),
-(3, 'akila', 'akila@gmail.com', 'Male', '$2y$10$PJylKL6UszsxZwNxKLmkI.cGteFqfseHV1RE7l4secBtp0ps2XLzi', '0702249246', 0, '2024-09-27 16:06:02', '2024-09-27 16:09:33'),
+(1, 'vishwa', 'vishwa@gmail.com', 'Male', 'vishwa1234', '767829734', 1, '2024-09-27 15:34:19', '2024-09-27 15:34:19'),
+(2, 'methya', 'methya@gmail.com', 'Female', 'methya1234', '987654321', 0, '2024-09-27 15:34:19', '2024-09-27 15:34:19'),
+(3, 'thusitha', 'thusitha@gmail.com', 'Male', 'thusitha1234', '0702249246', 0, '2024-09-27 16:06:02', '2024-09-27 16:09:33'),
 (4, 'admin', 'admin@gmail.com', 'Male', 'admin123', '0744567891', 1, '2024-09-29 06:24:23', '2024-09-29 06:24:23'),
-(5, 'hashan P', 'hashan@gmail.com', 'Male', '$2y$10$QmZYquO4Wykh3jYmIQUjt.IFkEl0dEXv4m4yPrAWd9DGFJz0ekLgC', '07224789456', 0, '2024-10-01 02:41:35', '2024-10-01 02:42:35'),
-(6, 'hashan perera', 'hashanp@gmail.com', 'Male', '$2y$10$cVPyD9JiRw66Q30Y8ZCOze.xBKshlkUI.uQaAZteveTEmYjjWnO/q', '07224789456', 0, '2024-10-01 02:52:48', '2024-10-01 02:54:35');
+(5, 'nethvidu', 'nethvidu@gmail.com', 'Male', 'nethvidu1234', '07224789456', 0, '2024-10-01 02:41:35', '2024-10-01 02:42:35'),
+(6, 'harshana', 'harshana@gmail.com', 'Male', 'harshana1234', '07224789456', 0, '2024-10-01 02:52:48', '2024-10-01 02:54:35');
 
 -- --------------------------------------------------------
 
